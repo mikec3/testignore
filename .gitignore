@@ -1,3 +1,10 @@
+# Testing Ignore Files
+
+bin/
+etc/
+include/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
