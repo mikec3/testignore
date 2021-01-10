@@ -3,6 +3,7 @@
 bin/
 etc/
 include/
+share/
 
 
 # Byte-compiled / optimized / DLL files
